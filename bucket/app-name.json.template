@@ -32,6 +32,10 @@
     "uninstaller": {
         "script": ""
     },
+    "post_uninstall": [
+        "",
+        ""
+    ],
     "bin": "",
     "shortcuts": [
         [
