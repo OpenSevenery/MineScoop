@@ -1,16 +1,16 @@
 {
-    "version": "0.79.7",
+    "version": "0.79.8",
     "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
     "homepage": "https://github.com/earendil-works/pi",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/earendil-works/pi/releases/download/v0.79.7/pi-windows-x64.zip",
-            "hash": "9735057d5d4a213752ed98823405262c4d01f8a6dc9ab01c94daab14bd9ec254"
+            "url": "https://github.com/earendil-works/pi/releases/download/v0.79.8/pi-windows-x64.zip",
+            "hash": "b23eb0bf62e43dc500b2eac7fc1f99587219c3043df026014e3b92aba97108c7"
         },
         "arm64": {
-            "url": "https://github.com/earendil-works/pi/releases/download/v0.79.7/pi-windows-arm64.zip",
-            "hash": "61b8743d7e800f45ff200f98721943a1150ee856934f4679988f84f21742face"
+            "url": "https://github.com/earendil-works/pi/releases/download/v0.79.8/pi-windows-arm64.zip",
+            "hash": "c781fc9fb4483ca1e1b140d7c1019cf6c950e6dbdd4d35f05ccc0dcce653723c"
         }
     },
     "bin": "pi.exe",
