@@ -1,16 +1,16 @@
 {
-    "version": "1.16.1",
+    "version": "1.17.0",
     "description": "Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.",
     "homepage": "https://github.com/slint-ui/slint",
     "license": "Slint License",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/slint-ui/slint/releases/download/v1.16.1/slint-viewer-windows-x86_64.zip",
-            "hash": "F5D314107FE8BAFDD39E09E68828B226AAEE13E218C8EDC2F1D040914744346E"
+            "url": "https://github.com/slint-ui/slint/releases/download/v1.17.0/slint-viewer-windows-x86_64.zip",
+            "hash": "b5f096503c777f793cfe5caeb30f19a4064f00a2acf1795d8373eff078cdc560"
         },
         "arm64": {
-            "url": "https://github.com/slint-ui/slint/releases/download/v1.16.1/slint-viewer-windows-arm64.zip",
-            "hash": "FF2EDAA6046C91C94CBF4C3E1AB538E092C6D26D9E3DDA04693C83FB2C41D2A1"
+            "url": "https://github.com/slint-ui/slint/releases/download/v1.17.0/slint-viewer-windows-arm64.zip",
+            "hash": "779af656bde0ecf74c8cc91264dde3fbe20868d9162d08ee841383154aeec840"
         }
     },
     "bin": "slint-viewer.exe",
